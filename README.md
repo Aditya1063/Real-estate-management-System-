@@ -7,4 +7,13 @@ Clients can search real estates for buying or renting from anywhere of the world
 There is an option for builders to upload information about real estates for selling.
 100% accuracy in result.
 As a user you can search the properties by location, prices or flat type.
-#
+# Back-end
+1.Advance java
+# Front-end
+1.HTML
+2.css3
+3.javascript
+# hardwares used
+1.intel 1.5 ghz
+2. 2 GB Ram
+
